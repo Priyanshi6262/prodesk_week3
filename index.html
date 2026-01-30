@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dev Detective</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <header>
+        <h1>Dev Detective</h1>
+        <p>Search GitHub users</p>
+    </header>
+
+    <div class="search-bar">
+        <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="Enter GitHub username"
+        />
+    </div>
+
+    <p id="loading" class="info">Loading...</p>
+    <p id="error" class="error"></p>
+
+    <section id="profile" class="profile"></section>
+
+    <section id="repos" class="repos"></section>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
