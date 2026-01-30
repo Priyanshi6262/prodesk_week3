@@ -1,12 +1,12 @@
 ## Screenshot
 
-![dev detecive search app](screenshots/detective1.png)
-![ Page 1](screenshots/detective2.png)
-![Page 2](screenshots/detective3.png)
+![dev detecive search app](screenshot/detective1.png)
+![ Page 1](screenshot/detective2.png)
+![Page 2](screenshot/detective3.png)
 
-![Page 3](screenshots/detective4.png)
+![Page 3](screenshot/detective4.png)
 
-![Page 4](screenshots/detective5.png)
+![Page 4](screenshot/detective5.png)
 
 
 
